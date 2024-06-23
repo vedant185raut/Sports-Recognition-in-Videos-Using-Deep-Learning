@@ -10,6 +10,14 @@ This web application allows users to upload a video or provide a YouTube URL to 
 - Displays the predicted action along with the top 3 possible actions and their confidence scores.
 - Shows the extracted frames used for prediction.
 
+## UI of WebApp
+![image](https://github.com/vedant185raut/Sports-Recognition-in-Videos-Using-Deep-Learning/assets/105361526/22330a5d-119e-4522-aa64-5676377cea25)
+ ### Upload video or Input URL of youtube video.
+ ![image](https://github.com/vedant185raut/Sports-Recognition-in-Videos-Using-Deep-Learning/assets/105361526/a73e399e-409e-4efb-8205-f978727702bc)
+ ### Predicted Result
+![image](https://github.com/vedant185raut/Sports-Recognition-in-Videos-Using-Deep-Learning/assets/105361526/e7b450d8-945b-4058-b4bd-859d8a56f30c)
+![image](https://github.com/vedant185raut/Sports-Recognition-in-Videos-Using-Deep-Learning/assets/105361526/7f6336b4-213b-4ec2-b45a-5ab737f2d1da)
+
 ## Technology Stack
 
 - Python
@@ -107,12 +115,4 @@ Processes the input video file to extract frames, preprocess them, and feed them
 
 - The InceptionV3 model used in this project is pre-trained on the ImageNet dataset.
 - Special thanks to the developers of PyTube and Katna for their excellent libraries.
-
-## UI of WebApp
-![image](https://github.com/vedant185raut/Sports-Recognition-in-Videos-Using-Deep-Learning/assets/105361526/22330a5d-119e-4522-aa64-5676377cea25)
- ### Upload video or Input URL of youtube video.
- ![image](https://github.com/vedant185raut/Sports-Recognition-in-Videos-Using-Deep-Learning/assets/105361526/a73e399e-409e-4efb-8205-f978727702bc)
-![image](https://github.com/vedant185raut/Sports-Recognition-in-Videos-Using-Deep-Learning/assets/105361526/e7b450d8-945b-4058-b4bd-859d8a56f30c)
-![image](https://github.com/vedant185raut/Sports-Recognition-in-Videos-Using-Deep-Learning/assets/105361526/7f6336b4-213b-4ec2-b45a-5ab737f2d1da)
-
 
