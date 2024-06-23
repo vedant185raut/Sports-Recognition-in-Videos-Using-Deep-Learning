@@ -66,15 +66,7 @@ The model used in this application is a CNN-LSTM model. The CNN part of the mode
 
 ## Project Structure
 
-├── app.py # Main Flask application script
-├── requirements.txt # File listing Python dependencies
-├── static # Static files directory
-│ ├── models # Directory for model weights
-│ │ └── IV3_LSTM4_wt.h5 # Pre-trained model weights file
-│ └── video.mp4 # Placeholder for uploaded video
-├── templates # HTML templates directory
-│ └── index.html # HTML template for web interface
-└── saved_frames # Directory to store extracted frames
+![image](https://github.com/vedant185raut/Sports-Recognition-in-Videos-Using-Deep-Learning/assets/105361526/4c362fcf-11eb-48ff-a1d5-5b932c63c0db)
 
 ## Functions
 
