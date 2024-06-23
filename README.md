@@ -67,15 +67,15 @@ The model used in this application is a CNN-LSTM model. The CNN part of the mode
 ## Project Structure
 
 .
-├── app.py                    # Main Flask application
-├── requirements.txt          # Python dependencies
+├── app.py                    - Main Flask application
+├── requirements.txt          - Python dependencies
 ├── static
 │   ├── models
-│   │   └── IV3_LSTM4_wt.h5   # Pre-trained model weights
-│   └── video.mp4             # Placeholder for the uploaded video
+│   │   └── IV3_LSTM4_wt.h5   - Pre-trained model weights
+│   └── video.mp4             - Placeholder for the uploaded video
 ├── templates
-│   └── index.html            # HTML template for the web interface
-└── saved_frames              # Directory to store extracted frames
+│   └── index.html            - HTML template for the web interface
+└── saved_frames              - Directory to store extracted frames
 
 ## Functions
 
